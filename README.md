@@ -13,7 +13,7 @@ This project is educational — it demonstrates how a database performs selectio
 - `parser.py` — SQL parser (limited grammar)
 - `engine.py` — data loader and query execution
 - `cli.py` — simple REPL CLI
-- `sample_data/people.csv` and `orders.csv` — example datasets
+- `sample_data/people.csv`, `sales.csv` and `orders.csv` — example datasets
 
 ## Supported SQL grammar (precise)
 - `SELECT <cols> FROM <table> [WHERE <col> <op> <value>];`
